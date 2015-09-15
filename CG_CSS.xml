@@ -198,8 +198,8 @@
     </context>
   </template>
   <template name="au" value="/**&#10;* author:       $NAME$ | skype : $SKYPE$&#10;* spec:         $SPEC$&#10;* created:      $DATE$&#10;* &#10;$CMNT$&#10;* @project class:   $KLASS$&#10;* @project colors:  $COLORS$&#10;**/&#10;$END$" description="author comment" toReformat="false" toShortenFQNames="true">
-    <variable name="NAME" expression="&quot;eugeny.horoshilov&quot;" defaultValue="" alwaysStopAt="false" />
-    <variable name="SKYPE" expression="&quot;khoroshilov-ok&quot;" defaultValue="" alwaysStopAt="false" />
+    <variable name="NAME" expression="&quot;stewiekillsloiss&quot;" defaultValue="" alwaysStopAt="false" />
+    <variable name="SKYPE" expression="&quot;SKYPE_ID&quot;" defaultValue="" alwaysStopAt="false" />
     <variable name="SPEC" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="CMNT" expression="&quot;* comments: &quot;" defaultValue="" alwaysStopAt="true" />
