@@ -1,4 +1,4 @@
-# SourceJS Live templates
+# InelliJ x-project live templates
 
 Live templates for WebStorm / Idea. Accelerate and simplify the development of specs in the IDE.
 
