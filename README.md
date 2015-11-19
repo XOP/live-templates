@@ -7,6 +7,7 @@
 Jetbrains IDE of choice.
 > Boost development and follow common [code-guide](https://github.com/XOP/css-codeguide) in two simple steps!
 
+
 ## What live template is?
 
 Extensive overview available [here](https://www.jetbrains.com/idea/help/live-templates.html) and the brief intro is [here](http://blog.jetbrains.com/webide/2012/10/high-speed-coding-with-custom-live-templates/).
@@ -35,6 +36,10 @@ Extensive overview available [here](https://www.jetbrains.com/idea/help/live-tem
         <td>code delimiter with '='</td>
     </tr>
     <tr>
+        <td>bs</td>
+        <td>bootstrap new style</td>
+    </tr>
+    <tr>
         <td>ch1</td>
         <td>code comment level 1</td>
     </tr>
@@ -49,6 +54,10 @@ Extensive overview available [here](https://www.jetbrains.com/idea/help/live-tem
     <tr>
         <td>ch4</td>
         <td>code comment level 4</td>
+    </tr>
+    <tr>
+        <td>cssg</td>
+        <td>CSSG stub</td>
     </tr>
 </table>
 
@@ -108,14 +117,14 @@ Extensive overview available [here](https://www.jetbrains.com/idea/help/live-tem
 1. Just copy files to templates directory and then restart IDE.
 
     Templates directory on Windows:
-    
+
     	username//.WebIdeXX/config/templates/
 
     OS X:
-    
+
     	~/Library/Preferences/IntelliJIdeaXX/templates
 
-    
+
 2. Create symlink for each file:
 
 	    ln -s source.xml ~/Library/Preferences/IntelliJIdeaXX/templates
