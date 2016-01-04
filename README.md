@@ -116,15 +116,18 @@ Extensive overview available [here](https://www.jetbrains.com/idea/help/live-tem
 
 1. Just copy files to templates directory and then restart IDE.
 
-    Templates directory on Windows:
+Templates directory on Windows:
+```
+username//.WebIdeXX/config/templates/
+```
 
-    	username//.WebIdeXX/config/templates/
-
-    OS X:
-
-    	~/Library/Preferences/IntelliJIdeaXX/templates
-
+OS X:
+```
+~/Library/Preferences/[IDE_NAME]/templates
+```
 
 2. Create symlink for each file:
 
-	    ln -s source.xml ~/Library/Preferences/IntelliJIdeaXX/templates
+```
+ln -s [TEMPLATE_NAME].xml ~/Library/Preferences/[IDE_NAME]/templates
+```
