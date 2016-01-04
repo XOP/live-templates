@@ -114,7 +114,8 @@ Extensive overview available [here](https://www.jetbrains.com/idea/help/live-tem
 
 ## How to use
 
-1. Just copy files to templates directory and then restart IDE.
+1. Just copy files to templates directory and then restart IDE.  
+You might need to create the folder yourself if it's not present yet.
 
 Templates directory on Windows:
 ```
