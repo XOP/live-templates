@@ -132,3 +132,5 @@ OS X:
 ```
 ln -s [TEMPLATE_NAME].xml ~/Library/Preferences/[IDE_NAME]/templates
 ```
+
+------
