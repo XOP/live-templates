@@ -18,8 +18,10 @@
       <option name="CSS_DECLARATION_BLOCK" value="true" />
       <option name="CSS_RULESET_LIST" value="true" />
       <option name="CSS" value="true" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="HAML" value="false" />
       <option name="SQL" value="false" />
       <option name="ColdFusion" value="false" />
       <option name="JADE" value="false" />
@@ -57,8 +59,10 @@
       <option name="CSS_DECLARATION_BLOCK" value="true" />
       <option name="CSS_RULESET_LIST" value="true" />
       <option name="CSS" value="true" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="HAML" value="false" />
       <option name="SQL" value="false" />
       <option name="ColdFusion" value="false" />
       <option name="JADE" value="false" />
@@ -96,8 +100,10 @@
       <option name="CSS_DECLARATION_BLOCK" value="true" />
       <option name="CSS_RULESET_LIST" value="true" />
       <option name="CSS" value="true" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="HAML" value="false" />
       <option name="SQL" value="false" />
       <option name="ColdFusion" value="false" />
       <option name="JADE" value="false" />
@@ -136,8 +142,10 @@
       <option name="CSS_DECLARATION_BLOCK" value="true" />
       <option name="CSS_RULESET_LIST" value="true" />
       <option name="CSS" value="true" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="HAML" value="false" />
       <option name="SQL" value="false" />
       <option name="ColdFusion" value="false" />
       <option name="JADE" value="false" />
@@ -176,8 +184,10 @@
       <option name="CSS_DECLARATION_BLOCK" value="true" />
       <option name="CSS_RULESET_LIST" value="true" />
       <option name="CSS" value="true" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="HAML" value="false" />
       <option name="SQL" value="false" />
       <option name="ColdFusion" value="false" />
       <option name="JADE" value="false" />
@@ -222,8 +232,10 @@
       <option name="CSS_DECLARATION_BLOCK" value="true" />
       <option name="CSS_RULESET_LIST" value="true" />
       <option name="CSS" value="true" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="HAML" value="false" />
       <option name="SQL" value="false" />
       <option name="ColdFusion" value="false" />
       <option name="JADE" value="false" />
@@ -262,8 +274,10 @@
       <option name="CSS_DECLARATION_BLOCK" value="true" />
       <option name="CSS_RULESET_LIST" value="true" />
       <option name="CSS" value="true" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="HAML" value="false" />
       <option name="SQL" value="false" />
       <option name="ColdFusion" value="false" />
       <option name="JADE" value="false" />
@@ -283,7 +297,7 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
-  <template name="ch2" value="/* $VAR0$&#10;-------------------------------------------------- */&#10;&#10;$END$&#10;&#10;/* /$VAR0$ */" description="/* CSS H2 -------------------------------------------------- */" toReformat="false" toShortenFQNames="true">
+  <template name="ch2" value="/* $VAR0$&#10;-------------------------------------------------- */&#10;&#10;$END$&#10;&#10;/* /$VAR0$&#10;-------------------------------------------------- */" description="/* CSS H2 -------------------------------------------------- */" toReformat="false" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML_TEXT" value="false" />
@@ -302,8 +316,10 @@
       <option name="CSS_DECLARATION_BLOCK" value="true" />
       <option name="CSS_RULESET_LIST" value="true" />
       <option name="CSS" value="true" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="HAML" value="false" />
       <option name="SQL" value="false" />
       <option name="ColdFusion" value="false" />
       <option name="JADE" value="false" />
@@ -342,8 +358,10 @@
       <option name="CSS_DECLARATION_BLOCK" value="true" />
       <option name="CSS_RULESET_LIST" value="true" />
       <option name="CSS" value="true" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="HAML" value="false" />
       <option name="SQL" value="false" />
       <option name="ColdFusion" value="false" />
       <option name="JADE" value="false" />
@@ -382,8 +400,10 @@
       <option name="CSS_DECLARATION_BLOCK" value="true" />
       <option name="CSS_RULESET_LIST" value="true" />
       <option name="CSS" value="true" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="HAML" value="false" />
       <option name="SQL" value="false" />
       <option name="ColdFusion" value="false" />
       <option name="JADE" value="false" />
@@ -423,8 +443,10 @@
       <option name="CSS_DECLARATION_BLOCK" value="true" />
       <option name="CSS_RULESET_LIST" value="true" />
       <option name="CSS" value="true" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="HAML" value="false" />
       <option name="SQL" value="false" />
       <option name="ColdFusion" value="false" />
       <option name="JADE" value="false" />
@@ -462,8 +484,10 @@
       <option name="CSS_DECLARATION_BLOCK" value="true" />
       <option name="CSS_RULESET_LIST" value="true" />
       <option name="CSS" value="true" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="HAML" value="false" />
       <option name="SQL" value="false" />
       <option name="ColdFusion" value="false" />
       <option name="JADE" value="false" />
@@ -484,4 +508,3 @@
     </context>
   </template>
 </templateSet>
-
