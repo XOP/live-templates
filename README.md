@@ -123,6 +123,7 @@ username//.WebIdeXX/config/templates/
 ```
 
 OS X:
+_if there is no `template` directory, simply create one_
 ```
 ~/Library/Preferences/[IDE_NAME]/templates
 ```
